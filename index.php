@@ -47,7 +47,7 @@ foreach ($ids as $id)
 	{
 	
 	$email = get_the_author_meta( user_email, $id );
-	if($atts['style']==3 OR$atts['style']==4 )
+	if($atts['style']==3 OR $atts['style']==4 )
 		{
 			$image = get_avatar( $email, 100 );
 		}

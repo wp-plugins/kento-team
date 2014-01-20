@@ -39,12 +39,13 @@ Plugin Features
 3. This Plugin doesn't have any setting page
 4. After Activate Use short code [team id="1,4,2" style="4"].
 
-<strong>ShortCodes Details</strong>
+<strong>ShortCodes Details</strong><br />
 
 Use "id" as author id of your wordpress user id
 Use comma(,) by separating multiple user
 
-<strong>How to get user id ?</strong>
+<strong>How to get user id ?</strong><br />
+
 Please go your WordPress Admin Dashboard and "User" menu on users list then hover mouse on "Edit" link on every username bellow and see the value "user_id=3" get this value and add to "id" value on shortcode
 
 and set shortcode value for "style" 1 to 4 meaning of one to four predefined style.
