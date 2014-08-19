@@ -1,5 +1,5 @@
 === Kento Team ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags: team, team members, team plugin wordpress, members profiles, our teams
 Requires at least: 3.5
